@@ -1,0 +1,13 @@
+# Cache files
+/tmp/cricket-cache/
+*.cache
+
+# Alert state
+/tmp/cricket-alert-state.json
+
+# Local config with secrets (if someone puts their key directly)
+config/cricket.local.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
